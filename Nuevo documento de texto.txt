@@ -1,0 +1,15 @@
+ https://www.w3schools.com/js/js_exercises.asp
+2️⃣ https://practity.com/582-2/
+3️⃣ https://exercism.org/tracks/javascript/exercises
+4️⃣ https://www.java5cript.com/code-challenges
+5️⃣ https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/typed-arrays
+6️⃣ https://coderbyte.com/challenges
+7️⃣ https://leetcode.com/problemset/all/
+8️⃣ https://edabit.com/challenges
+9️⃣ https://www.codewars.com/kata/latest/my-languages
+🔟 https://www.hackerrank.com/dashboard
+1️⃣1️⃣ https://codeforces.com/problemset?f0a28=2
+1️⃣2️⃣ https://www.w3resource.com/javascript-exercises/
+1️⃣3️⃣ https://www.jschallenger.com/
+1️⃣4️⃣ https://www.javascript.com/try
+1️⃣5️⃣ https://www.topcoder.com/challenges?tracks[DS]=true&tracks[Des]=true&tracks[Dev]=true&tracks[QA]=true&types[]=CH&types[]=F2F&types[]=TSK

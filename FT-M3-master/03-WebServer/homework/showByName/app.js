@@ -33,6 +33,6 @@ http.createServer(function(req,res){
     })
     .catch((err)=>{
         res.writeHead(err.data,{'Content-Type': err.contentType })
-        return res.end(err,data)})
+        return res.end(err.data)})
     })
     .listen(1337,"127.0.0.1");

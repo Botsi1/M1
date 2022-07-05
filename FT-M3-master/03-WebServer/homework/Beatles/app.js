@@ -33,11 +33,11 @@ function readFile(filename){
 }
 
 http.createServer(function(req,res){
-  if (req.url==="/"){
-    return readFile("./index.html").then((html)=>{
-      res.writeHead(200,{"Conten-Type": "application/json"});
-      return res.end(html);
-    })
+  if (req.url === "/") {
+    return readFile("./index.html").then((html) => {
+      res.writeHead(200, { "Content-Type": "text/html; charset=UTF-8" });
+      res.end(html);
+    });
 
   }
   if(req.url==="/api"){

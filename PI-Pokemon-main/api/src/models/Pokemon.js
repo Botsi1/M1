@@ -3,7 +3,7 @@ const { DataTypes } = require('sequelize');
 
 
 
-mmodule.exports = (sequelize) => {
+module.exports = (sequelize) => {
   // defino el modelo
   sequelize.define('pokemon', {
     id: {
